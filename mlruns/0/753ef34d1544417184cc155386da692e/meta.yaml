@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pavan/OneDrive/Desktop/vscode/mlops/mlruns/0/753ef34d1544417184cc155386da692e/artifacts
+end_time: 1764003976882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 753ef34d1544417184cc155386da692e
+run_name: melodic-foal-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764003976677
+status: 4
+tags: []
+user_id: pavan

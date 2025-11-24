@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/pavan/OneDrive/Desktop/vscode/mlops/mlruns/0/168bbed9cb004ebd9b20609cda128a2a/artifacts
+end_time: 1764004779531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 168bbed9cb004ebd9b20609cda128a2a
+run_name: sneaky-croc-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764004779347
+status: 3
+tags: []
+user_id: pavan
